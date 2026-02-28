@@ -1,0 +1,21 @@
+
+# VS Code
+.vscode/
+
+# Claude
+.claude/
+
+# Untracked files
+zz-untracked/
+
+# cached files
+__pycache__
+
+# screenshots
+screenshots/
+
+# output
+output
+
+# output
+.venv
